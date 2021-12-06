@@ -1,0 +1,3 @@
+[submodule "First_maven_project"]
+	path = First_maven_project
+	url = https://github.com/syedsuha/First_maven_project.git
